@@ -1,0 +1,20 @@
+{
+    "terminal.integrated.env.windows": {
+        "PKG_CONFIG_PATH": "C:\\Users\\zmtemp\\AppData\\Local\\Programs\\stack\\x86_64-windows\\msys2-20150512\\mingw64\\lib\\pkgconfig",
+        "XDG_DATA_DIRS": "C:\\Users\\zmtemp\\AppData\\Local\\Programs\\stack\\x86_64-windows\\msys2-20150512\\mingw64\\share"
+    },
+    "files.autoSave": "off",
+    "files.associations": {
+        "gio.h": "c"
+    },
+    "gitflow4code.features": [
+        {
+            "name": "feature/throttle-respecting-valid-count",
+            "base": "develop"
+        },
+        {
+            "name": "feature/rearrange-idle-sothat-multiple-ticks-be-fired-in-one-turn",
+            "base": "develop"
+        }
+    ]
+}
